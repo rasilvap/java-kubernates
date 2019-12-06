@@ -33,3 +33,8 @@ build/
 .idea
 *.iml
 repository
+**/repository
+**/*.tar.gz
+**/target
+**/.idea
+**/*.iml
